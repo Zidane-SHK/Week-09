@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 st.set_page_config(page_title="Layout Demo", layout="wide")
-st.title("Layout Demo -- Building a Simple Dashboard")
+st.title("1. Layout Demo -- Building a Simple Dashboard")
 
 #Side-bar
 
